@@ -7,19 +7,24 @@
 of Amazon user sessions, containing histori-
 cal clicks and the current click, enriched with
 detailed product metadata.
+
 • Amazon Reviews 2023 (https://amazon-reviews-2023.github.io/): over 500 million
 Amazon reviews and purchase verifications of
 products spanning 33 categories;
+
 • ESCI-data (https://github.com/amazon-science/esci-data) : shopping query and its rele-
 vant results pairs, supplemented with ESCI rel-
 evance judgments (Exact, Substitute, Comple-
 ment, Irrelevant) to assess product relevance.
+
 • ECInstruct (https://github.com/ninglab/eCeLLM): 116,528 samples derived
 from 10 widely performed e-commerce tasks
 across four categories;
+
 • MMLU (https://huggingface.co/datasets/cais/mmlu): massive multitask dataset con-
 sisting of over 100k multiple-choice questions
 and their answers;
+
 • Alpaca-Cleaned (https://huggingface.co/datasets/yahma/alpaca-cleaned): a cleaned version of the
 original Alpaca Dataset released by Stanford.
 
